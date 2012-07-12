@@ -43,7 +43,7 @@
       <h2>Reference:</h2>
       <ul>
         <li><a href="{$path}index-language.html">Language</a></li>
-        <li><a href="{$path}index-functions.html">Functions</a></li>
+        <li><a href="{$path}index-functions-by-cat.html">Functions</a></li>
         <li><a href="{$path}perlop.html">Operators</a></li>
         <li><a href="{$path}perlvar.html">Special variables</a></li>
         <li><a href="{$path}index-pragmas.html">Pragmas</a></li>
